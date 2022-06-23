@@ -1,2 +1,1 @@
-# onboarding_backend
-backend repo for diggibyte HR oboarding 
+# onboarding-backend
